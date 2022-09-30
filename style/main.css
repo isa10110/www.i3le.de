@@ -3,8 +3,10 @@
   }
   h1 {
     color: white;
-    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
   }
   a {
     color: white;
   }
+hr {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
