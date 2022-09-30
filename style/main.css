@@ -8,5 +8,5 @@
     color: white;
   }
 hr {
-  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  color: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
 }
